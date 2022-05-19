@@ -2,7 +2,7 @@
 
 ![](deck-example.gif)
 
-## [🔗 Snaller, local download link (`.apkg`)](https://github.com/hiAndrewQuinn/Default__Finnish_-_Frequency_list__Top_1000-ish-_words/releases/download/download/Default__Finnish.-.Frequency.list_.Top.1000.ish.words.apkg)
+## [🔗 Smaller, direct download link, from GitHub's "Releases" (`.apkg`)](https://github.com/hiAndrewQuinn/Default__Finnish_-_Frequency_list__Top_1000-ish-_words/releases/download/download/Default__Finnish.-.Frequency.list_.Top.1000.ish.words.apkg)
 
 You need the [Anki flashcard program](https://apps.ankiweb.net/) to run this flashcard deck. For the uninitiated, Anki shows you flashcards only just before it thinks you'll forget them, so you don't have to do 2000 every single day. You'll see them less and less as you get them right over and over again.
 
