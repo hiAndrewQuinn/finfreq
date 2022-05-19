@@ -21,10 +21,6 @@ If you're more technically inclined you can also download and import from this v
   - `Word in Finnish` links to [SuomiEnglantiSanakirja.fi](https://www.suomienglantisanakirja.fi/), a quick bidirectional dictionary.
   - Automatic links at the bottom to [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) (one-directional, more detailed dictionary), [Tatoeba](https://tatoeba.org/en/) (a hand-checked repository of example sentences containing specific words), and [Uusi Kielemme](https://uusikielemme.fi/) (excellent grammar site and labor of love by someone with a real passion for Finnish).
 
-## This is excellent! How can I donate?
-
-I don't accept donations! But [Uusi Kielemme](https://uusikielemme.fi/category/support-me) does and they deserve every _sentti_. 🪙
-
 # When should I try this deck out?
 
 There are a few ways to answer this!
@@ -44,3 +40,7 @@ That being said, the deck is split up into subdecks of:
 So a final answer I might give is: **Do the first two decks / top 100 most common words _now_, and do the rest at your leisure**. [Zipf's law of vocabulary frequency](https://www.wikiwand.com/en/Zipf%27s_law#/overview) suggests that over a third of the words used in practice are in the _top 100_ words, and that's something you could definitely grind through in a weekend or two if you have any previous knowledge of the language.
 
 I myself started work on this around the time I breached the A2 level of learning Finnish. A few months after completing the Finnish Duolingo course and starting to branch out to reading [YLE Uutiset Selkosuomeksi](https://yle.fi/uutiset/osasto/selkouutiset/) (free for all to read) and watching [dubbed _Peppa Pig_ on YLE's children network](https://areena.yle.fi/lapset/) (⚠️: regionlocked to only Finnish IP addresses).
+
+# This is excellent! How can I donate?
+
+I don't accept donations! But [Uusi Kielemme](https://uusikielemme.fi/category/support-me) does and they deserve every _sentti_. 🪙
