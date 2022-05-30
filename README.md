@@ -1,4 +1,4 @@
-# [🔗 BIG ANKIWEB DOWNLOAD LINK](https://ankiweb.net/shared/info/1190700519)
+# [🔗 BIG ANKIWEB DOWNLOAD LINK](https://ankiweb.net/shared/info/717716554)
 
 ![](deck-example.gif)
 
