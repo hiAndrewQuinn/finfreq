@@ -6,7 +6,7 @@
 
 You need the [Anki flashcard program](https://apps.ankiweb.net/) to run this flashcard deck. For the uninitiated, Anki shows you flashcards only just before it thinks you'll forget them, so you don't have to do 2000 every single day. You'll see them less and less as you get them right over and over again.
 
-If you're more technically inclined you can also download and import from this very repository using [CrowdAnki](https://github.com/Stvad/CrowdAnki). *Instructions on how to do this are [near the bottom](https://github.com/hiAndrewQuinn/finfreq#installation-using-crowdanki-technical=).*
+If you're more technically inclined you can also download and import from this very repository using [CrowdAnki](https://github.com/Stvad/CrowdAnki). *Instructions on how to do this are [near the bottom](https://github.com/hiAndrewQuinn/finfreq#installation-using-crowdanki).*
 
 # Features and Notes
 
@@ -40,7 +40,9 @@ So a final answer I might give is: **Do the first two decks / top 100 most commo
 
 I myself started work on this around the time I breached the A2 level of learning Finnish. A few months after completing the Finnish Duolingo course and starting to branch out to reading [YLE Uutiset Selkosuomeksi](https://yle.fi/uutiset/osasto/selkouutiset/) (free for all to read) and watching [dubbed _Peppa Pig_ on YLE's children network](https://areena.yle.fi/lapset/) (⚠️: regionlocked to only Finnish IP addresses).
 
-# Installation using CrowdAnki (technical)
+# Installation using CrowdAnki
+
+_Technically inclined only.You don't have to do it this way!_
 
 1. **Install CrowdAnki** if it isn't already installed, either from [https://ankiweb.net/shared/info/1788670778](https://ankiweb.net/shared/info/1788670778), or by opening Anki and going to `Tools > Add=ons (Ctrl+Shift+A) > Get Add-Ons...` and pasting in the code `1788670778`.
 2. **Restart Anki** if you just installed CrowdAnki.
