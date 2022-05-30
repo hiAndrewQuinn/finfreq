@@ -2417,7 +2417,7 @@
                     "__type__": "Note",
                     "fields": [
                         "siellä",
-                        "",
+                        "t-",
                         "adverb",
                         "there",
                         "152",
@@ -2435,7 +2435,7 @@
                     "__type__": "Note",
                     "fields": [
                         "kun",
-                        "",
+                        "m-",
                         "conjunction",
                         "when",
                         "153",
@@ -2975,7 +2975,7 @@
                     "__type__": "Note",
                     "fields": [
                         "yli",
-                        "",
+                        "o-",
                         "adverb",
                         "over",
                         "188",
@@ -3965,7 +3965,7 @@
                     "__type__": "Note",
                     "fields": [
                         "harvat",
-                        "",
+                        "m-",
                         "noun",
                         "few",
                         "249",
@@ -4309,7 +4309,7 @@
                         "varma",
                         "",
                         "adjective",
-                        "certain",
+                        "sure",
                         "268",
                         "",
                         "also: sure, confident",
@@ -4667,7 +4667,7 @@
                     "__type__": "Note",
                     "fields": [
                         "molemmat",
-                        "",
+                        "jom-",
                         "pronoun",
                         "both",
                         "290",
@@ -4829,9 +4829,9 @@
                     "__type__": "Note",
                     "fields": [
                         "toinen",
-                        "",
+                        "s-",
                         "adjective",
-                        "second",
+                        "second/2nd",
                         "300",
                         "",
                         "as in \"after the first in a sequence.\"",
@@ -5097,7 +5097,7 @@
                     "__type__": "Note",
                     "fields": [
                         "elin",
-                        "",
+                        "ur-",
                         "noun",
                         "organ",
                         "316",
@@ -5457,7 +5457,7 @@
                     "__type__": "Note",
                     "fields": [
                         "palo",
-                        "",
+                        "t-",
                         "noun",
                         "fire",
                         "339",
@@ -6033,7 +6033,7 @@
                     "__type__": "Note",
                     "fields": [
                         "veneen",
-                        "",
+                        "l-",
                         "noun",
                         "boat",
                         "371",
@@ -6573,7 +6573,7 @@
                     "__type__": "Note",
                     "fields": [
                         "tietty",
-                        "",
+                        "v-",
                         "adjective",
                         "certain",
                         "405",
@@ -8031,7 +8031,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ilmestyä",
-                        "",
+                        "eri-",
                         "verb",
                         "appear",
                         "491",
@@ -8696,12 +8696,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "kahtiajaon",
+                        "kahtiajako",
                         "",
                         "noun",
                         "dichotomy",
                         "532",
-                        "partitive case (I think).",
+                        "",
                         "can also mean \"divide\".",
                         "from kahtiajako. ",
                         "➗➗➗➗➗➗",
@@ -9345,7 +9345,7 @@
                     "__type__": "Note",
                     "fields": [
                         "väline",
-                        "",
+                        "työ-",
                         "noun",
                         "tool",
                         "575",
@@ -9811,7 +9811,7 @@
                     "__type__": "Note",
                     "fields": [
                         "vastaanottaa",
-                        "",
+                        "t-",
                         "verb",
                         "receive",
                         "604",
@@ -11251,7 +11251,7 @@
                     "__type__": "Note",
                     "fields": [
                         "paljon",
-                        "",
+                        "m-",
                         "adverb",
                         "much",
                         "687",
@@ -12367,7 +12367,7 @@
                     "__type__": "Note",
                     "fields": [
                         "paksu",
-                        "",
+                        "r-",
                         "adjective",
                         "thick",
                         "757",
@@ -12421,7 +12421,7 @@
                     "__type__": "Note",
                     "fields": [
                         "toimivat",
-                        "",
+                        "sää-",
                         "verb",
                         "operates",
                         "760",
@@ -12889,7 +12889,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ihmisen",
-                        "",
+                        "h-",
                         "noun",
                         "human",
                         "787",
@@ -13902,9 +13902,9 @@
                         "track",
                         "852",
                         "",
+                        "also: stripe; band; a music track; a band around something.",
                         "",
-                        "",
-                        "",
+                        "💿💿💿💿💿💿💿💿💿",
                         ""
                     ],
                     "guid": "p&JO1Q1hN{",
@@ -15031,12 +15031,12 @@
                     "__type__": "Note",
                     "fields": [
                         "samankaltainen",
-                        "",
+                        "t-",
                         "adjective",
-                        "similar",
+                        "homologous",
                         "923",
                         "",
-                        "also: homologous.",
+                        "also: similar",
                         "",
                         "<div><i><a href=\"https://en.wiktionary.org/wiki/sama#Finnish\">saman</a></i>&nbsp;(\"same\") +‎ <i><a href=\"https://en.wiktionary.org/wiki/kaltainen#Finnish\">kaltainen</a>&nbsp;</i>(\"-like\"). so literally <i>same-like.</i><br><br><div><i><a href=\"https://en.wiktionary.org/wiki/samanlainen#Finnish\">Samanlainen</a></i> is typically used for denoting a high level of similarity while <i><a href=\"https://en.wiktionary.org/wiki/samantapainen#Finnish\">samantapainen</a></i>, <i><strong>samankaltainen</strong></i> and <i><a href=\"https://en.wiktionary.org/wiki/samantyyppinen#Finnish\">samantyyppinen</a></i> usually refer to something that bears a resemblance while remaining distinct.&nbsp;</div></div>",
                         ""
@@ -15596,7 +15596,7 @@
                         "",
                         "",
                         "",
-                        "",
+                        "➖➖➖➖➖➖➖➖",
                         ""
                     ],
                     "guid": "bD&lpha:P`",
@@ -15697,14 +15697,14 @@
                     "__type__": "Note",
                     "fields": [
                         "päinvastainen",
-                        "",
+                        "v-",
                         "noun",
                         "converse",
                         "963",
                         "",
                         "can also be used as an adjective, to mean \"reciprocal / contrary / backwards\".",
                         "",
-                        "🔙🤚🔁🔙🤚🔁🔙🤚🔁🔙🤚🔁🔙🤚🔁",
+                        "🔙🤚🔁🔙🤚🔁🔙🤚🔁🔙🤚🔁🔙🤚🔁<br><div><i><a href=\"https://en.wiktionary.org/wiki/p%C3%A4in#Finnish\">päin</a></i>&nbsp;(\"against\") +‎ <i><a href=\"https://en.wiktionary.org/wiki/vastainen#Finnish\">vastainen</a>&nbsp;(</i>\"contrary\"<i>)</i></div>",
                         ""
                     ],
                     "guid": "j&3OQICoM>",
@@ -16129,7 +16129,7 @@
                     "__type__": "Note",
                     "fields": [
                         "vaatia",
-                        "",
+                        "r-",
                         "verb",
                         "require",
                         "992",
