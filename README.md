@@ -6,8 +6,7 @@
 
 You need the [Anki flashcard program](https://apps.ankiweb.net/) to run this flashcard deck. For the uninitiated, Anki shows you flashcards only just before it thinks you'll forget them, so you don't have to do 2000 every single day. You'll see them less and less as you get them right over and over again.
 
-If you're more technically inclined you can also download and import from this very repository using [CrowdAnki](https://github.com/Stvad/CrowdAnki).
-
+If you're more technically inclined you can also download and import from this very repository using [CrowdAnki](https://github.com/Stvad/CrowdAnki). *Instructions on how to do this are near the bottom.*
 
 # Features and Notes
 
@@ -40,6 +39,26 @@ That being said, the deck is split up into subdecks of:
 So a final answer I might give is: **Do the first two decks / top 100 most common words _now_, and do the rest at your leisure**. [Zipf's law of vocabulary frequency](https://www.wikiwand.com/en/Zipf%27s_law#/overview) suggests that over a third of the words used in practice are in the _top 100_ words, and that's something you could definitely grind through in a weekend or two if you have any previous knowledge of the language.
 
 I myself started work on this around the time I breached the A2 level of learning Finnish. A few months after completing the Finnish Duolingo course and starting to branch out to reading [YLE Uutiset Selkosuomeksi](https://yle.fi/uutiset/osasto/selkouutiset/) (free for all to read) and watching [dubbed _Peppa Pig_ on YLE's children network](https://areena.yle.fi/lapset/) (⚠️: regionlocked to only Finnish IP addresses).
+
+# Installation using CrowdAnki (technical)
+
+1. **Install CrowdAnki** if it isn't already installed, either from [https://ankiweb.net/shared/info/1788670778](https://ankiweb.net/shared/info/1788670778), or by opening Anki and going to `Tools > Add=ons (Ctrl+Shift+A) > Get Add-Ons...` and pasting in the code `1788670778`.
+2. **Restart Anki** if you just installed CrowdAnki.
+3. `File > CrowdAnki: Import git repository`, and then paste in the URL of this repository:
+
+   `https://github.com/hiAndrewQuinn/finfreq`
+
+4. If you see a screen like this and don't know what to do, **just hit "OK"**:
+
+   ![](crowdanki-screen.png)
+
+   What this screen is asking is just whether you want to overwrite any default fields that already exist. If you're downloading this via CrowdAnki, I assume you want the absolute latest cutting-edge version and so you should leave all the "Personal Fields" unchecked so they can have their content overwritten with new stuff in case they've been updated since the last time you may have installed them.
+
+5. You should now see `finfreq` installed. On my system, every time I do this, it installs as a subdeck of `Default`:
+   
+   ![](finfreq-default-subdeck.png)
+
+   
 
 # This is excellent! How can I donate?
 
