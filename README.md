@@ -42,7 +42,7 @@ I myself started work on this around the time I breached the A2 level of learnin
 
 # Installation using CrowdAnki
 
-_Technically inclined only.You don't have to do it this way!_
+_Technically inclined only. You don't have to do it this way!_
 
 1. **Install CrowdAnki** if it isn't already installed, either from [https://ankiweb.net/shared/info/1788670778](https://ankiweb.net/shared/info/1788670778), or by opening Anki and going to `Tools > Add=ons (Ctrl+Shift+A) > Get Add-Ons...` and pasting in the code `1788670778`.
 2. **Restart Anki** if you just installed CrowdAnki.
