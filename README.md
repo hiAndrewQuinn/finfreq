@@ -6,7 +6,7 @@
 
 You need the [Anki flashcard program](https://apps.ankiweb.net/) to run this flashcard deck. For the uninitiated, Anki shows you flashcards only just before it thinks you'll forget them, so you don't have to do 2000 every single day. You'll see them less and less as you get them right over and over again.
 
-If you're more technically inclined you can also download and import from this very repository using [CrowdAnki](https://github.com/Stvad/CrowdAnki). *Instructions on how to do this are near the bottom.*
+If you're more technically inclined you can also download and import from this very repository using [CrowdAnki](https://github.com/Stvad/CrowdAnki). *Instructions on how to do this are [near the bottom](https://github.com/hiAndrewQuinn/finfreq#installation-using-crowdanki-technical=).*
 
 # Features and Notes
 
