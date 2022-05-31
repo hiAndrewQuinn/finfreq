@@ -1,6 +1,6 @@
 # [🔗 BIG ANKIWEB DOWNLOAD LINK](https://ankiweb.net/shared/info/717716554)
 
-![](markkinat.mp4)
+![](deck-example.gif)
 
 ## [🔗 Smaller, direct download link, from GitHub's "Releases" (`.apkg`)](https://github.com/hiAndrewQuinn/finfreq/releases/download/v1.1.0/finfreq_2022_06.apkg)
 
