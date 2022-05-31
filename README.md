@@ -58,7 +58,16 @@ _Technically inclined only. You don't have to do it this way!_
 
    What this screen is asking is just whether you want to overwrite any default fields that already exist. If you're downloading this via CrowdAnki, I assume you want the absolute latest cutting-edge version and so you should leave all the "Personal Fields" unchecked so they can have their content overwritten with new stuff in case they've been updated since the last time you may have installed them.
 
-5. You should now see `finfreq` installed. On my system, every time I do this, it installs as a subdeck of `Default`:
+5. If you see a screen like this and don't know what to do, again, **just hit "OK"**:
+
+   ![](crowdanki-screen-2.png)
+
+   This screen might pop up if the note type has been altered. For example, `v1` of this deck didn't hae any audio in it, but `v2` did, and this screen might pop up if you've already imported the deck on an earlier major release.
+   - ⚠️ **I take no responsibility for what, if anything, happens to your card scheduling if this screen pops up.** I don't _think_ anything happens but I can't be certain until someone else tries it and reports back.
+   
+     If you're scared, hit "Cancel" and keep using your original earlier-version deck. Or test it yourself: Take your earlier deck and `.apkg` export it _with_ scheduling information; make a new profile and import it in there; and then overwrite _that_ to see whether the scheduling information is kept the same.
+
+6. You should now see `finfreq` installed. On my system, every time I do this, it installs as a subdeck of `Default`:
    
    ![](finfreq-default-subdeck.png)
 
