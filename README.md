@@ -1,6 +1,6 @@
 # [🔗 BIG ANKIWEB DOWNLOAD LINK](https://ankiweb.net/shared/info/717716554)
 
-![](deck-example.gif)
+![](markkinat.mp4)
 
 ## [🔗 Smaller, direct download link, from GitHub's "Releases" (`.apkg`)](https://github.com/hiAndrewQuinn/finfreq/releases/download/v1.1.0/finfreq_2022_06.apkg)
 
@@ -10,6 +10,7 @@ If you're more technically inclined you can also download and import from this v
 
 # Features and Notes
 
+- _New to v2.0!_ **Automatically playing MP3 clips of all words, no special setup.** No special setup required - tested on Windows and Android, now the cards automatically play TTS audio of the words on both sides. Now you can study on the bus without even needing to look down!
 - **1 word in, 1 word out.** With rare exceptions, every word in Finnish gets _one_ word in English you are prompted to remember.
 - **Consonant and vowel clues.** A small amount of JavaScript puts periods `.` in for _vowels_, and underscores `_` for _consonants_. This was by far the best thing I added when I was running through the deck myself!
   - ⚠️ WARNING: Not yet supported on AnkiDroid, and I have no plans to make it so. If you're studying on the go, consider it an extra challenge!
@@ -19,6 +20,7 @@ If you're more technically inclined you can also download and import from this v
   - `Part of speech` links to the (English) Wikipedia entry.
   - `Word in Finnish` links to [SuomiEnglantiSanakirja.fi](https://www.suomienglantisanakirja.fi/), a quick bidirectional dictionary.
   - Automatic links at the bottom to [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) (one-directional, more detailed dictionary), [Tatoeba](https://tatoeba.org/en/) (a hand-checked repository of example sentences containing specific words), and [Uusi Kielemme](https://uusikielemme.fi/) (excellent grammar site and labor of love by someone with a real passion for Finnish).
+
 
 # When should I try this deck out?
 
