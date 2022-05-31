@@ -2,7 +2,7 @@
 
 ![](deck-example.gif)
 
-## [🔗 Smaller, direct download link, from GitHub's "Releases" (`.apkg`)](https://github.com/hiAndrewQuinn/finfreq/releases/download/v1.1.0/finfreq_2022_06.apkg)
+## [🔗 Smaller, direct download link, from GitHub's "Releases" (`.apkg`) (`v2.0.0`)](https://github.com/hiAndrewQuinn/finfreq/releases/download/v2.0.0/finfreq_2022_06_audio.apkg)
 
 You need the [Anki flashcard program](https://apps.ankiweb.net/) to run this flashcard deck. For the uninitiated, Anki shows you flashcards only just before it thinks you'll forget them, so you don't have to do 2000 every single day. You'll see them less and less as you get them right over and over again.
 
