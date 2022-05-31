@@ -10,7 +10,7 @@ If you're more technically inclined you can also download and import from this v
 
 # Features and Notes
 
-- _New to v2.0!_ **Automatically playing MP3 clips of all words, no special setup.** No special setup required - tested on Windows and Android, now the cards automatically play TTS audio of the words on both sides. Now you can study on the bus without even needing to look down!
+- _New to v2.0!_ **Automatically playing MP3 clips of all words, no special setup.** Now you can study on the bus without even needing to look down!
 - **1 word in, 1 word out.** With rare exceptions, every word in Finnish gets _one_ word in English you are prompted to remember.
 - **Consonant and vowel clues.** A small amount of JavaScript puts periods `.` in for _vowels_, and underscores `_` for _consonants_. This was by far the best thing I added when I was running through the deck myself!
   - ⚠️ WARNING: Not yet supported on AnkiDroid, and I have no plans to make it so. If you're studying on the go, consider it an extra challenge!
