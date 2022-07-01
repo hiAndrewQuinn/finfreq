@@ -10,7 +10,9 @@ If you're more technically inclined you can also download and import from this v
 
 # Features and Notes
 
-- _New to v2.0!_ **Automatically playing MP3 clips of all words, no special setup.** Now you can study on the bus without even needing to look down! [See it in action here, on Windows.](https://www.veed.io/view/92ad9213-f98d-40da-9b7f-27e111bd0b94)
+- _New to v3!_ **Tatoeba example sentences** which by default are placed in the right column. You can edit the CSS to turn it back into a one-column affair if you wish.
+- _New to v3!_ **Wiktionary information dumps** so you can read up on the deep lore of each individual word at your leisure.
+- _New to v2!_ **Automatically playing MP3 clips of all words, no special setup.** Now you can study on the bus without even needing to look down! [See it in action here, on Windows.](https://www.veed.io/view/92ad9213-f98d-40da-9b7f-27e111bd0b94)
 - **1 word in, 1 word out.** With rare exceptions, every word in Finnish gets _one_ word in English you are prompted to remember.
 - **Consonant and vowel clues.** A small amount of JavaScript puts periods `.` in for _vowels_, and underscores `_` for _consonants_. This was by far the best thing I added when I was running through the deck myself!
   - ⚠️ WARNING: Not yet supported on AnkiDroid, and I have no plans to make it so. If you're studying on the go, consider it an extra challenge!
