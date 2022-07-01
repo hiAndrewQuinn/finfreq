@@ -1,6 +1,8 @@
 # [🔗 BIG ANKIWEB DOWNLOAD LINK](https://ankiweb.net/shared/info/1331009943)
 
-![](deck-example.gif)
+![](deck-example-01.gif)
+
+![](deck-example-02.gif)
 
 ## [🔗 Smaller, direct download link, from GitHub's "Releases" (`.apkg`) (`v3.0.0`)](https://github.com/hiAndrewQuinn/finfreq/releases/download/v3.0.0/finfreq_2022_07.apkg)
 
